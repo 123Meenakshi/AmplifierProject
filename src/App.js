@@ -30,7 +30,7 @@ function App() {
         
         <p>
           Simple Interest Calculator
-        
+        </p>
 
         <form>
             <label>Principle Amount:</label>
