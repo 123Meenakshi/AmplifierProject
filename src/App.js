@@ -30,7 +30,7 @@ function App() {
         
         <p>
           Simple Interest Calculator
-        </p>
+        
 
         <form>
             <label>Principle Amount:</label>
@@ -41,6 +41,9 @@ function App() {
 
             <label>Time(Y):</label>
             <input class="form-control" type="number" id="t"  /> <br></br>
+  
+            <label>Result:</label>
+            
 
             <button onClick={Calculate}>Calculate</button>
             <button onClick={Clear}>Clear</button>
